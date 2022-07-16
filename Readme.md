@@ -2,7 +2,10 @@
 Marchalloakbow
 
 # Job
-Application Engineer
+Application Engineer at robotics company
+
+Former career:
+Electrical engineer at a startup company
 
 # Introduction
 Hello I am MAsaru OHKUBO(Marchall Oakbow in English).
